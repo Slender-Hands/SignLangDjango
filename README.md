@@ -29,7 +29,7 @@ $ python manage.py runserver
 settings.py에서 DEBUG가 False인지 확인  
 로컬에서는 DEBUG가 True여야 실행 가능
 
-## Googl MediaPipe
+## Google MediaPipe
 ![image](https://user-images.githubusercontent.com/71717840/204175327-a1621341-9eb4-4f30-8c47-fc56b81b7fdf.png) <br>
 Googld MediaPipe를 사용한 손의 뼈대 추출
 
